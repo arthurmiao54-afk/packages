@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git lfs *)",
+      "Bash(git rev-list *)",
+      "Bash(git cat-file *)",
+      "Bash(sort -rnk2)",
+      "Bash(git push *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
+    ]
+  }
+}
